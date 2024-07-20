@@ -28,7 +28,6 @@ See [project report](./Report/Recommendation%20System%20for%20Movies%20x%20ML%20
 
 
 ## Authors
-git
 Khushi Jain, Purnima Kumar, Nachiket Nasa, Yashi Sharma
 Department of Computer Science
 University of Delhi
